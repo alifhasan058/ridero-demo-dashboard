@@ -1,0 +1,6 @@
+{
+  "name": "Ridero — AI Auto Finance Platform (Concept Demo)",
+  "description": "Interactive concept demo for Ridero, an AI-powered auto lease and balloon financing platform for consumers, dealers, and lenders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
